@@ -3,7 +3,7 @@ package com.e3mall.pojo;
 import java.io.Serializable;
 import java.util.Date;
 
-//szrdyxvjcjmmyzckv
+//szrdyxvjcjmmyzckv胜多负少
 
 public class TbContent implements Serializable{
     private Long id;
